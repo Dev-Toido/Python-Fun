@@ -1,0 +1,8 @@
+Organic Chemistry
+
+
+2,3-diAlfa 3,4,5-triBeta
+['2,3' , 'diAlfa'],['3,4,5' , 'triBeta']
+
+[2:['Alfa'],3:['Alfa','Beta'],4:['Beta'],5:['Beta']]
+
