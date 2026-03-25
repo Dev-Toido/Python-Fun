@@ -1,4 +1,4 @@
-n=15
+n=10
 
 for i in range(60):
     for j in range(60):

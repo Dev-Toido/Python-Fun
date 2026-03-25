@@ -1,4 +1,4 @@
-n=20
+n=10
 for i in range(n-2):
     for j in range(i+1):
         if j in [0,1] or i in [n-1,n-2]:
