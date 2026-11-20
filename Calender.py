@@ -133,7 +133,7 @@ def yearprint(year):
     return lst
 
 
-def filegen(year,location=r"C:\Users\User\AppData\Local\Programs\Python\Python312\Programs\Calendar.txt"):
+def filegen(year,location=r"Calendar.txt"):
     with open(location,"w") as obj:
         pcal=calender(year)
         y=yearprint(year)

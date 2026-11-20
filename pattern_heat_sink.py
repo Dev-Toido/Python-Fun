@@ -1,4 +1,4 @@
-n=10
+n=20
 def oorx(s):
     if len(str(s))>1:
         print(s,end="  ")
